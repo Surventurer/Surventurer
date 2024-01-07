@@ -3,17 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=surventurer&label=Profile%20views&color=0e75b6&style=flat" alt="surventurer" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=surventurer" alt="surventurer" /></a> </p>
-
 - 🔭 I’m currently working on [Stegnogrphy_Website](https://github.com/Surventurer/Steganography_Website)
 
 - 👨‍💻 All of my projects are available at [https://github.com/Surventurer](https://github.com/Surventurer)
 
-- 💬 Ask me about **Any thing**
+- 💬 Ask me about **Anything.**
 
 - 📫 How to reach me **abhinavrajpati3344@gmail.com**
 
-- ⚡ Fun fact **I am passionate about learning Computer Science.**
+- ⚡ Fun fact **Passionate about learning Computer Science.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
