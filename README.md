@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Stegnogrphy_Website](https://github.com/Surventurer/Steganography_Website)
 
-- 👨‍💻 All of my projects are available at [https://github.com/Surventurer](https://github.com/Surventurer)
+- 👨‍💻 All of my projects are available at [https://github.com/Surventurer](https://github.com/Surventurer?tab=repositories)
 
 - 💬 Ask me about **Anything.**
 
