@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abhinav Rajpati</h1>
 <h3 align="center">A passionate to learn Computer.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=surventurer&label=Profile%20views&color=0e75b6&style=flat" alt="surventurer" /> </p>
-
 - 🔭 I’m currently working on [Stegnogrphy_Website](https://github.com/Surventurer/Steganography_Website)
 
 - 👨‍💻 All of my projects are available at [https://github.com/Surventurer](https://github.com/Surventurer)
